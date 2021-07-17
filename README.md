@@ -29,3 +29,5 @@ $ ls
 $ bash facehack.sh
 
 Créditos a hackdres oficial y a Wilian Lgn
+
+# VISITA NUESTRO CANAL DE YOUTUBE ( https://youtube.com/channel/UCTSAjBuSJiqSYXd_dqg4qBg )
